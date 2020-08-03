@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # acc4jo
 Project Firefly code to integrate Adobe Campaign Classic with Journey Orchestration
 =======
@@ -79,4 +78,3 @@ code.
 While running your local server (`aio app run`), both UI and actions can be debugged, to do so open the vscode debugger
 and select the debugging configuration called `WebAndActions`.
 Alternatively, there are also debug configs for only UI and each separate action.
->>>>>>> 656edf6... First Commit
