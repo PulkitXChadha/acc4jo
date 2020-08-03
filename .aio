@@ -1,0 +1,42 @@
+{
+  "cna": {},
+  "project": {
+    "id": "4566206088344516573",
+    "name": "SpicyIndigoMink",
+    "title": "POT2 Maintenance",
+    "description": "POT2 Maintenance",
+    "org": {
+      "id": "260016",
+      "name": "Adobe Americas POT 2",
+      "ims_org_id": "22A746245D84C1B50A495CD5@AdobeOrg"
+    },
+    "workspace": {
+      "id": "4566206088344516627",
+      "name": "Production",
+      "title": "POT2 Maintenance",
+      "description": "POT2 Maintenance",
+      "action_url": "https://260016-spicyindigomink.undefined",
+      "app_url": "https://260016-spicyindigomink.undefined",
+      "details": {
+        "services": [
+          {
+            "code": "AdobeAnalyticsSDK",
+            "name": "Adobe Analytics"
+          },
+          {
+            "code": "AdobeTargetSDK",
+            "name": "Adobe Target"
+          },
+          {
+            "code": "McDataServicesSdk",
+            "name": "Experience Platform API"
+          },
+          {
+            "code": "McDtmSDK",
+            "name": "Experience Platform Launch API"
+          }
+        ]
+      }
+    }
+  }
+}

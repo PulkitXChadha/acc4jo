@@ -1,0 +1,63 @@
+{
+  "project": {
+    "id": "4566206088344516573",
+    "name": "SpicyIndigoMink",
+    "title": "POT2 Maintenance",
+    "description": "POT2 Maintenance",
+    "org": {
+      "id": "260016",
+      "name": "Adobe Americas POT 2",
+      "ims_org_id": "22A746245D84C1B50A495CD5@AdobeOrg"
+    },
+    "workspace": {
+      "id": "4566206088344516627",
+      "name": "Production",
+      "title": "POT2 Maintenance",
+      "description": "POT2 Maintenance",
+      "action_url": "https://260016-spicyindigomink.undefined",
+      "app_url": "https://260016-spicyindigomink.undefined",
+      "details": {
+        "credentials": [
+          {
+            "id": "77834",
+            "name": "POT2 Maintenance",
+            "integration_type": "service",
+            "jwt": {
+              "client_id": "55ed1aab816a49b2876999b96842cfae",
+              "client_secret": "bd3dee9c-c279-4039-a6ce-86d1d62dd6fc",
+              "technical_account_email": "1c29e727-2868-429f-8a50-45f2ebf08dd9@techacct.adobe.com",
+              "technical_account_id": "51F2619C5E12BC470A495FCE@techacct.adobe.com",
+              "meta_scopes": [
+                "ent_reactor_sdk",
+                "ent_analytics_bulk_ingest_sdk",
+                "ent_marketing_sdk",
+                "ent_dataservices_sdk"
+              ]
+            }
+          }
+        ],
+        "services": [
+          {
+            "code": "AdobeAnalyticsSDK",
+            "name": "Adobe Analytics"
+          },
+          {
+            "code": "AdobeTargetSDK",
+            "name": "Adobe Target"
+          },
+          {
+            "code": "McDataServicesSdk",
+            "name": "Experience Platform API"
+          },
+          {
+            "code": "McDtmSDK",
+            "name": "Experience Platform Launch API"
+          }
+        ],
+        "runtime": {
+          "namespaces": []
+        }
+      }
+    }
+  }
+}
