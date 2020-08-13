@@ -1,8 +1,6 @@
 # acc4jo
 Project Firefly code to integrate Adobe Campaign Classic with Journey Orchestration
 =======
-# SpicyIndigoMink
-
 Welcome to my Adobe I/O Application!
 
 ## Setup
